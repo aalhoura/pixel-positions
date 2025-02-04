@@ -3,10 +3,11 @@
 
         <section class="text-center pt-6">
             <h1 class="text-4xl font-bold">Let's Find You A Great Job</h1>
-            <form action="" class="mt-8">
-                <input type="text" placeholder="Search for jobs" class="w-full px-5 py-4 bg-white/5 border border-white/10 rounded-xl max-w-2xl">
-            </form>
-
+            <div class="inline-block mt-6 w-full max-w-3xl p-1.5 rounded-2xl backdrop-blur-[1px]">
+                <form action="">
+                    <input type="text" placeholder="Search for jobs" class="w-full px-5 py-4 bg-white/5 text-white rounded-xl">
+                </form>
+            </div>
         </section>
         
         <section class="pt-5">
